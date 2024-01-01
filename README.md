@@ -1,13 +1,10 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Dulmi+Tharuka....<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Dulmi+Tharuka...."></a>
 </p>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture> **About me**
 
 <br>
-Undergraduate
--------------
 
 I am a final-year undergraduate student in the Department of Electronics and Telecommunication Engineering at the University of Moratuwa. I am interested in DevOps and Software Engineering.
 
@@ -26,12 +23,29 @@ I am a final-year undergraduate student in the Department of Electronics and Tel
 
 <p align="left"> <a href="https://www.github.com/dulmi-99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dulmi-tharuka-chathumini" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dulmi-99"><img src="https://github-readme-stats.vercel.app/api?username=dulmi-99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="dulmi-99's GitHub stats" /></a>
 
-<a href="http://www.github.com/dulmi-99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dulmi-99&stroke=3382ed&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dulmi-99&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dulmi-99&theme=dark&hide_border=false" /> 
+</td>
 
-<a href="https://github.com/dulmi-99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulmi-99&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dulmi-99&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+</p>        
+
