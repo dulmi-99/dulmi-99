@@ -4,7 +4,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture> **About me**
 
-<br>
 
 I am a final-year undergraduate student in the Department of Electronics and Telecommunication Engineering at the University of Moratuwa. I am interested in DevOps and Software Engineering.
 
